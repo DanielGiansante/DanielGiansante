@@ -13,7 +13,6 @@
 <img src="https://github.com/DanielGiansante/DanielGiansante/blob/output/github-contribution-grid-snake.svg">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=DanielGiansante&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true">
 <img align="center" width="150" src="https://komarev.com/ghpvc/?username=DanielGiansante&label=PROFILE+VIEWS&style=flat-square"> 
-<img src="https://github.com/DanielGiansante/DanielGiansante/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 

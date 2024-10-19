@@ -12,10 +12,9 @@
 <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGiansante&theme=github_dark&show_icons=true&bg_color=0111111"> 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=DanielGiansante&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true">
 <img src="https://github.com/DanielGiansante/DanielGiansante/blob/output/github-contribution-grid-snake.svg">
-<img align="center" width="150" src="https://github.com/DanielGiansante/DanielGiansante/blob/output/github-contribution-grid-snake.svg"> 
 <img align="center" width="150" src="https://komarev.com/ghpvc/?username=DanielGiansante&label=PROFILE+VIEWS&style=flat-square"> 
 </p>
-![snake gif](https://github.com/DanielGiansante/DanielGiansante/blob/output/github-contribution-grid-snake.gif)
+[![snake gif](https://github.com/DanielGiansante/DanielGiansante/blob/output/github-contribution-grid-snake.gif)
 
 <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
 <br> <p align="center"> 

@@ -11,8 +11,8 @@
 <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielGiansante&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Daniel Giansante github streak stats"> 
 <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGiansante&theme=github_dark&show_icons=true&bg_color=0111111"> 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=DanielGiansante&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
-<img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
-<img align="center" width="150" src="https://komarev.com/ghpvc/?username=DanielGiansante&label=PROFILE+VIEWS&style=flat-square">
+<img src="https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif">
+<img align="center" width="150" src="https://komarev.com/ghpvc/?username=DanielGiansante&label=PROFILE+VIEWS&style=flat-square"> 
 </p>
 
 <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
